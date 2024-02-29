@@ -1,7 +1,5 @@
 #include <stdio.h>
-
-int main(){
-    
+  
 void print_sp(int i, int n){
     for(int sp = 0; sp < n-1;sp++){
         printf(" ");
